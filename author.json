@@ -1,0 +1,132 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "Nguyễn Nhật Ánh",
+      "title": "Cho Tôi Xin Một Vé Đi Tuổi Thơ",
+      "year": 2008,
+      "description": "Một câu chuyện dễ thương nắm bắt sự ngây thơ và kỳ diệu của tuổi thơ.",
+      "createdAt": "2"
+    },
+    {
+      "id": "2",
+      "name": "J.K. Rowling",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 1997,
+      "description": "Cuốn sách đầu tiên trong loạt truyện Harry Potter được yêu thích.",
+      "createdAt": "2"
+    },
+    {
+      "id": "3",
+      "name": "George Orwell",
+      "title": "Nineteen Eighty-Four",
+      "year": 1984,
+      "description": "Một tiểu thuyết khoa học viễn tưởng xã hội và câu chuyện cảnh báo.",
+      "createdAt": "2"
+    },
+    {
+      "id": "4",
+      "name": "Haruki Murakami",
+      "title": "Kafka on the Shore",
+      "year": 2002,
+      "description": "Một câu chuyện phức tạp và siêu thực kết hợp giữa thực tế và huyền bí.",
+      "createdAt": "2"
+    },
+    {
+      "id": "5",
+      "name": "Jane Austen",
+      "title": "Pride and Prejudice and Zombies",
+      "year": 2009,
+      "description": "Một sự kết hợp giữa văn học cổ điển và tiểu thuyết zombie.",
+      "createdAt": "2"
+    },
+    {
+      "id": "6",
+      "name": "F. Scott Fitzgerald",
+      "title": "The Love of the Last Tycoon",
+      "year": 1993,
+      "description": "Một tiểu thuyết xuất bản sau khi tác giả qua đời, khám phá cuộc sống của một ông trùm Hollywood.",
+      "createdAt": "2"
+    },
+    {
+      "id": "7",
+      "name": "Mark Twain",
+      "title": "The Great Short Works of Mark Twain",
+      "year": 1994,
+      "description": "Một tập hợp các truyện ngắn hay nhất của Twain.",
+      "createdAt": "2"
+    },
+    {
+      "id": "8",
+      "name": "J.R.R. Tolkien",
+      "title": "The Children of Húrin",
+      "year": 2007,
+      "description": "Một câu chuyện độc lập từ huyền thoại Tolkien.",
+      "createdAt": "2"
+    },
+    {
+      "id": "9",
+      "name": "Charles Dickens",
+      "title": "Drood",
+      "year": 2009,
+      "description": "Một câu chuyện hư cấu về những năm cuối đời bí ẩn của Charles Dickens.",
+      "createdAt": "2"
+    },
+    {
+      "id": "10",
+      "name": "Leo Tolstoy",
+      "title": "Hadji Murat",
+      "year": 1999,
+      "description": "Một tiểu thuyết lấy bối cảnh trong cuộc chiến tranh Caucasian, miêu tả cuộc đời của một phiến quân Avar.",
+      "createdAt": "2"
+    },
+    {
+      "id": "11",
+      "name": "Ernest Hemingway",
+      "title": "True at First Light",
+      "year": 1999,
+      "description": "Một hồi ký hư cấu dựa trên trải nghiệm của Hemingway ở châu Phi.",
+      "createdAt": "2"
+    },
+    {
+      "id": "12",
+      "name": "Gabriel García Márquez",
+      "title": "Memories of My Melancholy Whores",
+      "year": 2004,
+      "description": "Một câu chuyện cảm động về suy ngẫm của một ông già về tình yêu và cuộc sống.",
+      "createdAt": "2"
+    },
+    {
+      "id": "13",
+      "name": "J.D. Salinger",
+      "title": "Hapworth 16, 1924",
+      "year": 1997,
+      "description": "Một truyện ngắn dài được xuất bản lần đầu trên The New Yorker.",
+      "createdAt": "2"
+    },
+    {
+      "id": "15",
+      "name": "Homer",
+      "title": "The Odyssey (translated by Robert Fagles)",
+      "year": 1996,
+      "description": "Bản dịch hiện đại của sử thi Hy Lạp.",
+      "createdAt": "2"
+    },
+    {
+      "id": "16",
+      "name": "Song Hongbing",
+      "title": "Chiến Tranh Tiền Tệ",
+      "year": 2007,
+      "description": "Một cuộc khám phá về quyền lực tài chính toàn cầu và sự thao túng.",
+      "createdAt": "2"
+    },
+    {
+      "id": "17",
+      "name": "Selock Home",
+      "title": "The Silent Patient",
+      "year": 2019,
+      "description": "Một tác phẩm ly kỳ tâm lý về hành động bạo lực gây sốc của một người phụ nữ đối với chồng cô và câu chuyện của một nhà tâm lý học quyết tâm khám phá động cơ của cô.",
+      "createdAt": "2"
+    }
+  ]
+}

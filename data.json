@@ -1,0 +1,116 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Quần",
+      "price": 15,
+      "stock": 13,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "3",
+      "name": "Nón",
+      "price": 5,
+      "stock": 11,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "4",
+      "name": "Giày",
+      "price": 45,
+      "stock": 20,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "5",
+      "name": "Balo",
+      "price": 30,
+      "stock": 7,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "6",
+      "name": "Kính mắt",
+      "price": 20,
+      "stock": 15,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "7",
+      "name": "Váy",
+      "price": 50,
+      "stock": 10,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "8",
+      "name": "Túi xách",
+      "price": 60,
+      "stock": 8,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "9",
+      "name": "Dây nịt",
+      "price": 10,
+      "stock": 22,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "10",
+      "name": "Áo khoác",
+      "price": 55,
+      "stock": 9,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "11",
+      "name": "Quần jean",
+      "price": 35,
+      "stock": 14,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "12",
+      "name": "Giày thể thao",
+      "price": 70,
+      "stock": 5,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "13",
+      "name": "Khẩu trang",
+      "price": 5,
+      "stock": 50,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "14",
+      "name": "Găng tay",
+      "price": 8,
+      "stock": 30,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "15",
+      "name": "Mũ lưỡi trai",
+      "price": 12,
+      "stock": 18,
+      "description": "nothing",
+      "createdAt": "2"
+    }
+  ]
+}
